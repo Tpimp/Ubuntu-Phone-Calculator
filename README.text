@@ -1,0 +1,9 @@
+Ubuntu-Phone-Calculator
+=======================
+
+Touch driven calculator with advanced functions. Built using Qt5 and the Bignum c++ library (ttmath.org)
+
+This project was originally derived from and effort to design and realize a full Ubuntu Phone Calculator.
+(https://wiki.ubuntu.com/Touch/CoreApps?action=show&redirect=UbuntuPhone%2FCoreApps)
+
+All designs, development(code), and art is created by Christopher Dean.
