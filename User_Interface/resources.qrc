@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>qml/images/lineedit.png</file>
+        <file alias="^-^.png">qml/images/^-^.png</file>
+        <file alias="^+^.png">qml/images/^+^.png</file>
+        <file alias="^d^.png">qml/images/^d^.png</file>
+        <file alias="^m^.png">qml/images/^m^.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="NumberDisplay.qml">qml/NumberDisplay.qml</file>
+        <file alias="Button.qml">qml/Button.qml</file>
+        <file alias="CurrentFunction.qml">qml/CurrentFunction.qml</file>
+        <file alias="VarNameBar.qml">qml/VarNameBar.qml</file>
+        <file alias="Operation.qml">qml/Operations_Button/Operation.qml</file>
+        <file alias="OperationTab.qml">qml/Operations_Button/OperationTab.qml</file>
+    </qresource>
+</RCC>

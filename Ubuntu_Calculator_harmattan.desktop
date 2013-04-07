@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Ubuntu_Calculator
+Exec=/usr/bin/single-instance /opt/Ubuntu_Calculator/bin/Ubuntu_Calculator
+Icon=/usr/share/icons/hicolor/80x80/apps/Ubuntu_Calculator80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

@@ -1,0 +1,24 @@
+#ifndef EXCEPTIONS_HPP
+#define EXCEPTIONS_HPP
+
+// DEFINE EXCEPTIONS
+enum Exceptions
+{
+    MISSMATCHED_PARENS,
+    INVALID_FUNCTION_PARAMETER,
+    MISSINGOPPERAND,
+    INVALID_COMMA,
+    INVALID_DECIMAL
+};
+
+struct EXCEPTION_STRUCT
+{
+    int exception_start;
+    int exception_end;
+};
+
+static EXCEPTION_STRUCT FUNCTION_INPUT_EXCEPT;
+
+
+
+#endif // EXCEPTIONS_HPP

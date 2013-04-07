@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="lineedit.png">User_Interface/qml/images/lineedit.png</file>
+    </qresource>
+</RCC>

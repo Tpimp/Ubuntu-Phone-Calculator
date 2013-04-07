@@ -1,0 +1,13 @@
+window_sizes 3600 945 900 2694 751 120
+show_stereotypes
+selected 
+  package_ref 134627 // Ubuntu_Calculator
+open
+  deploymentview_ref 128099 // Ubuntu_Calculator
+  deploymentview_ref 128483 // Ubuntu_Calculator
+  classview_ref 128099 // Calculator
+  deploymentview_ref 128227 // Calculator
+  classview_ref 128227 // qmlapplicationviewer
+  deploymentview_ref 128355 // qmlapplicationviewer
+end
+end
